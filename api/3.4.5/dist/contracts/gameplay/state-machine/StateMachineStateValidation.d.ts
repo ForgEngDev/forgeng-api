@@ -1,0 +1,5 @@
+import { type GameplayStateMachineDefinition, type GameplayStateMachineEventInput, type GameplayStateMachineInstanceState, type GameplayStateMachineLimits, type GameplayStateMachineTransitionRecord } from './StateMachineContracts';
+export declare function validateGameplayStateMachineInstanceState<TContext = unknown>(input: unknown, definition?: GameplayStateMachineDefinition<TContext>): GameplayStateMachineInstanceState;
+export declare function validateGameplayStateMachineEventBatch<TContext = unknown>(input: unknown, definition?: GameplayStateMachineDefinition<TContext>, limitsInput?: Partial<GameplayStateMachineLimits>): readonly GameplayStateMachineEventInput[];
+export declare function validateGameplayStateMachineHistory(input: readonly GameplayStateMachineTransitionRecord[], limitsInput?: Partial<GameplayStateMachineLimits>): readonly GameplayStateMachineTransitionRecord[];
+export declare function validateGameplayStateMachineInstances(input: readonly GameplayStateMachineInstanceState[], definitions?: Readonly<Record<string, GameplayStateMachineDefinition>>, limitsInput?: Partial<GameplayStateMachineLimits>): readonly GameplayStateMachineInstanceState[];

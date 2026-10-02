@@ -1,0 +1,12 @@
+# ForgeNG public API
+
+TypeScript API reference for browser games using WebGPU. Engine runtime and implementation are separate.
+
+- [Instructions for AI assistants](AGENTS.md)
+- [Public entry map](docs/API.md)
+- [Version 3.4.5 declarations and hashes](api/3.4.5/manifest.json)
+- [Runnable beginner templates](templates.json)
+- [Getting started and lifecycle examples](docs/GETTING_STARTED.md)
+- [Serbian guide](docs/POCETAK.md)
+
+Read the chosen template's pinned runtime version and local declarations before writing code. Use only public imports supplied by its configuration. Do not assume automatic compatibility with the newer declaration snapshot.

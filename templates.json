@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "inspectedDate": "2026-10-02",
+  "apiSnapshot": "3.4.5",
+  "templates": [
+    {
+      "id": "forgeng-2d-platformer-template",
+      "url": "https://github.com/ForgEngDev/forgeng-2d-platformer-template",
+      "defaultBranch": "main",
+      "inspectedCommit": "1219379a80d02a958404502281680bf380dfcc71",
+      "description": "TypeScript/WebGPU 2D platformer starter for ForgEng (ForgeNG 3.4.2)",
+      "commands": {
+        "dev": "vite",
+        "build": "tsc && vite build",
+        "preview": "vite preview"
+      },
+      "versionRule": "Read README, vendored declarations, tsconfig aliases and Vite runtime configuration at the inspected commit."
+    },
+    {
+      "id": "forgeng-2d-top-down-template",
+      "url": "https://github.com/ForgEngDev/forgeng-2d-top-down-template",
+      "defaultBranch": "main",
+      "inspectedCommit": "a197eac1fc5e0d640fa8376b9b004fd2590bfd7d",
+      "description": "TypeScript/WebGPU top-down 2D game starter for ForgEng (ForgeNG 3.4.2)",
+      "commands": {
+        "dev": "vite",
+        "build": "tsc && vite build",
+        "preview": "vite preview"
+      },
+      "versionRule": "Read README, vendored declarations, tsconfig aliases and Vite runtime configuration at the inspected commit."
+    },
+    {
+      "id": "forgeng-2d-endless-flyer-template",
+      "url": "https://github.com/ForgEngDev/forgeng-2d-endless-flyer-template",
+      "defaultBranch": "main",
+      "inspectedCommit": "536374337e70bd9e35caccd4189c9c02c5eb3996",
+      "description": "TypeScript/WebGPU 2D endless flyer starter for ForgEng (ForgeNG 3.4.2)",
+      "commands": {
+        "dev": "vite",
+        "build": "tsc && vite build",
+        "preview": "vite preview"
+      },
+      "versionRule": "Read README, vendored declarations, tsconfig aliases and Vite runtime configuration at the inspected commit."
+    },
+    {
+      "id": "forgeng-2d-space-shooter-template",
+      "url": "https://github.com/ForgEngDev/forgeng-2d-space-shooter-template",
+      "defaultBranch": "main",
+      "inspectedCommit": "7545865b226f24503d5a7daa8b8ebfbaed9971b4",
+      "description": "TypeScript/WebGPU 2D space shooter starter for ForgEng (ForgeNG 3.4.2)",
+      "commands": {
+        "dev": "vite",
+        "build": "tsc && vite build",
+        "preview": "vite preview"
+      },
+      "versionRule": "Read README, vendored declarations, tsconfig aliases and Vite runtime configuration at the inspected commit."
+    },
+    {
+      "id": "forgeng-2d-top-down-racing-template",
+      "url": "https://github.com/ForgEngDev/forgeng-2d-top-down-racing-template",
+      "defaultBranch": "main",
+      "inspectedCommit": "6d99537f33ebb063009d4218ade2dd51b6a915e3",
+      "description": "TypeScript/WebGPU top-down racing starter for ForgEng (ForgeNG 3.4.2)",
+      "commands": {
+        "dev": "vite",
+        "build": "tsc && vite build",
+        "preview": "vite preview"
+      },
+      "versionRule": "Read README, vendored declarations, tsconfig aliases and Vite runtime configuration at the inspected commit."
+    },
+    {
+      "id": "forgeng-3d-template",
+      "url": "https://github.com/ForgEngDev/forgeng-3d-template",
+      "defaultBranch": "main",
+      "inspectedCommit": "6820b8269f01e8bd19517de79216866ecfaec76e",
+      "description": "TypeScript/WebGPU 3D game starter template for ForgEng (ForgeNG 3) — Vite + browser delivery",
+      "commands": {
+        "dev": "vite",
+        "build": "tsc && vite build",
+        "preview": "vite preview"
+      },
+      "versionRule": "Read README, vendored declarations, tsconfig aliases and Vite runtime configuration at the inspected commit."
+    }
+  ]
+}

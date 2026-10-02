@@ -1,0 +1,14 @@
+ForgeNG API Reference Terms
+Copyright (c) 2026 ForgEngDev
+
+Permission is granted to read, copy, and use the documentation, declaration
+files, and maintenance scripts in this repository to develop integrations and
+games that use ForgeNG, including use as context for AI coding assistants.
+Keep this notice in redistributed copies. All other rights are reserved.
+
+This permission does not grant a license to the ForgeNG engine implementation,
+runtime distributions, or starter template code. Those materials remain subject
+to their own licenses. Publication of this reference does not modify them.
+
+THE MATERIALS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. THE AUTHORS
+ARE NOT LIABLE FOR DAMAGES ARISING FROM USE OF THESE MATERIALS.
