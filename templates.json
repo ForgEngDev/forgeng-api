@@ -59,7 +59,7 @@
       "id": "forgeng-2d-survivor-template",
       "url": "https://github.com/ForgEngDev/forgeng-2d-survivor-template",
       "defaultBranch": "main",
-      "inspectedCommit": "487de3b6cc52cae4b42dd313f62a63491eee3e26",
+      "inspectedCommit": "059e5c86428b1db2025fb77f894a317570f8f26b",
       "description": "TypeScript/WebGPU 2D survivor-like starter for ForgEng (ForgeNG 3.4.2)",
       "commands": {
         "dev": "vite",
