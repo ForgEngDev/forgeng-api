@@ -12,6 +12,7 @@ Build a browser game with your preferred AI coding assistant using the public Fo
 | Top-down adventure | [Top-down](https://github.com/ForgEngDev/forgeng-2d-top-down-template) |
 | Endless flyer | [Endless flyer](https://github.com/ForgEngDev/forgeng-2d-endless-flyer-template) |
 | Space shooter | [Space shooter](https://github.com/ForgEngDev/forgeng-2d-space-shooter-template) |
+| Survivor-like | [2D survivor](https://github.com/ForgEngDev/forgeng-2d-survivor-template) |
 | Racing | [Top-down racing](https://github.com/ForgEngDev/forgeng-2d-top-down-racing-template) |
 | 3D | [3D starter](https://github.com/ForgEngDev/forgeng-3d-template) |
 

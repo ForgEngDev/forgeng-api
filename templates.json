@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "inspectedDate": "2026-10-02",
+  "inspectedDate": "2026-10-03",
   "apiSnapshot": "3.4.5",
   "templates": [
     {
@@ -48,6 +48,19 @@
       "defaultBranch": "main",
       "inspectedCommit": "7545865b226f24503d5a7daa8b8ebfbaed9971b4",
       "description": "TypeScript/WebGPU 2D space shooter starter for ForgEng (ForgeNG 3.4.2)",
+      "commands": {
+        "dev": "vite",
+        "build": "tsc && vite build",
+        "preview": "vite preview"
+      },
+      "versionRule": "Read README, vendored declarations, tsconfig aliases and Vite runtime configuration at the inspected commit."
+    },
+    {
+      "id": "forgeng-2d-survivor-template",
+      "url": "https://github.com/ForgEngDev/forgeng-2d-survivor-template",
+      "defaultBranch": "main",
+      "inspectedCommit": "487de3b6cc52cae4b42dd313f62a63491eee3e26",
+      "description": "TypeScript/WebGPU 2D survivor-like starter for ForgEng (ForgeNG 3.4.2)",
       "commands": {
         "dev": "vite",
         "build": "tsc && vite build",
