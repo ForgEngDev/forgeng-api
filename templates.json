@@ -82,6 +82,19 @@
       "versionRule": "Read README, vendored declarations, tsconfig aliases and Vite runtime configuration at the inspected commit."
     },
     {
+      "id": "forgeng-2d-tower-defense-template",
+      "url": "https://github.com/ForgEngDev/forgeng-2d-tower-defense-template",
+      "defaultBranch": "main",
+      "inspectedCommit": "6319da7324e10a01c4a2c3267b885c38e426fb87",
+      "description": "TypeScript/WebGPU 2D tower-defense starter for ForgEng (ForgeNG 3.4.2)",
+      "commands": {
+        "dev": "vite",
+        "build": "tsc && vite build",
+        "preview": "vite preview"
+      },
+      "versionRule": "Read README, vendored declarations, tsconfig aliases and Vite runtime configuration at the inspected commit."
+    },
+    {
       "id": "forgeng-3d-template",
       "url": "https://github.com/ForgEngDev/forgeng-3d-template",
       "defaultBranch": "main",
