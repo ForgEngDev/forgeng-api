@@ -85,7 +85,7 @@
       "id": "forgeng-2d-tower-defense-template",
       "url": "https://github.com/ForgEngDev/forgeng-2d-tower-defense-template",
       "defaultBranch": "main",
-      "inspectedCommit": "8bbe12d58c0f36f0a3666136c73e2cfa39b97f31",
+      "inspectedCommit": "aae233a686ad008e21230f370545f6716bec484a",
       "description": "TypeScript/WebGPU 2D tower-defense starter for ForgEng (ForgeNG 3.4.2)",
       "commands": {
         "dev": "vite",
